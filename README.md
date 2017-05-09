@@ -1,8 +1,8 @@
-# ANDigital Coding Exercise
+# AND Digital Coding Exercise
 
 This test is designed to provide a real-world scenario for you to autonomously complete to the best of your ability.
 
-You are to complete as much as you see fit to [delight](http://andigital.com/who-we-are/#values) us. 
+You are to complete as much as you see fit to [delight](https://and.digital/who-we-are/) us. 
 Please bare in mind this needs to be **production-ready code**.
 
 **You are expected to spend around 2-4 hours on this test. This should give you enough time to come with a good, working solution.**
